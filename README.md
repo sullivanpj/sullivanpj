@@ -6,7 +6,7 @@
 <a href="https://www.patsullivan.org">Website</a>  |  <a href="https://www.patsullivan.org/contact">Contact</a>  |  <a href="https://linkedin.com/in/patrick-sullivan-865526b0">LinkedIn</a>  |  <a href="https://medium.com/@pat.joseph.sullivan">Medium</a>
 </div>
 
-# 💫 Who am I?
+# 👋 Who am I?
 I'm a financial technology developer based out of the New York metropolitan area. I love to learn about new technologies, solve complicated problems, and give back to the open source community (which has done so much for me!). I'm always interested in working on new and challenging projects, so feel free to reach out if you would like to chat. 
 
 # :hammer_and_wrench: Languages and Tools:
