@@ -1,13 +1,15 @@
 <div align="center">
   <img src="https://pub-e71cff0f90204755bc910518d63cacf8.r2.dev/logo-opengraph.png" width="100%"/>
 </div>
-
+<br />
 <div align="center">
 <a href="https://www.patsullivan.org" target="_blank">Website</a>  |  <a href="https://www.patsullivan.org/contact" target="_blank">Contact</a>  |  <a href="https://linkedin.com/in/patrick-sullivan-865526b0" target="_blank">LinkedIn</a>  |  <a href="https://medium.com/@pat.joseph.sullivan" target="_blank">Medium</a>  |  <a href="https://keybase.io/sullivanp" target="_blank">OpenPGP Key</a>
 </div>
 <div align="center">
 <b>Fingerprint:</b> 1BD2 7192 7770 2549 F4C9 F238 E6AD C420 DA5C 4C2D
 </div>
+
+<h3 align="center">💻 Visit <a href="https://www.patsullivan.org" target="_blank">patsullivan.org</a> to stay up to date with this developer<br /></h3>
 
 # 👋 Who am I?
 I'm a financial technology developer based out of the New York metropolitan area. I love to learn about new technologies, solve complicated problems, and give back to the open source community (which has done so much for me!). I'm always interested in working on new and challenging projects, so feel free to reach out if you would like to chat. 
