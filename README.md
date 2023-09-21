@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://pub-e71cff0f90204755bc910518d63cacf8.r2.dev/logo-opengraph.gif" width="100%"/>
+  <img src="./logo-opengraph.gif" width="100%"/>
 </div>
 <br />
 <div align="center">
